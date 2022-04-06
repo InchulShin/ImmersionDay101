@@ -1,6 +1,6 @@
 # Table of contents
 
-* [ImmersionDay101-LAB](README.md)
+* [AWS General Immersion Day](README.md)
 * [1. 실습 과정 소개](1.Intro/README.md)
 * [2. 워크샵 시작 전 준비 사항](2./README.md)
   * [2-2. 추가 설정하기](2./30-addition-setting.md)
