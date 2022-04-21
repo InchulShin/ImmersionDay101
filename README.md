@@ -12,10 +12,16 @@ AWS 입문자를 위한 실습 교육인 AWS 100 핸즈온랩 행사에 참석�
 
 여기 실습 진행은 아래의 내용을 참조해 주세요.
 
-[1. 실습 과정 소개](./1.Intro/README.md)<br>
-[2. 사전 실습 준비](./2.Prerequest/README.md)<br>
-[3. VPC 실습](./3.VPC/README.md)<br>
-[4. EC2 실습](./4.EC2/README.md)<br>
-[5. ELB 실습](./5.ELB/README.md)<br>
-[6. 추가 옵션](./6.Add-Option/README.md)<br>
-[7. 실습 정리](./7.Wrap-up/README.md)<br>
+[1. 실습 과정 소개](./1.Intro/README.md)
+
+[2. 사전 실습 준비](./2.Prerequest/README.md)
+
+[3. VPC 실습](./3.VPC/README.md)
+
+[4. EC2 실습](./4.EC2/README.md)
+
+[5. ELB 실습](./5.ELB/README.md)
+
+[6. 추가 옵션](./6.Add-Option/README.md)
+
+[7. 실습 정리](./7.Wrap-up/README.md)
